@@ -81,6 +81,11 @@ public class fleeScript : MonoBehaviour
 }
 ```
 ### Output:
+<img width="1600" height="755" alt="image" src="https://github.com/user-attachments/assets/562829dd-0ac5-4f15-8f53-826d42b13b1c" />
+
+<img width="1600" height="752" alt="image" src="https://github.com/user-attachments/assets/3e7daf10-0e76-4dc0-bc81-fd164d177f9c" />
+
+
 
 
 
